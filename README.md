@@ -1,3 +1,3 @@
 # Extracting-and-Visualizing-Data
-Testing repository
+Testing repository.
 This is the first markdown file.
